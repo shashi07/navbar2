@@ -1,0 +1,15 @@
+// Login Form
+
+$(function() {
+
+$('#birthday').datepicker(  
+);
+/*
+  $( "#progressbar" ).progressbar({
+      value: 20
+    });
+*/
+ $(function() {
+    $( "#statemenu" ).menu();
+  });
+});
